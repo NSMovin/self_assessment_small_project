@@ -182,6 +182,8 @@ Answer => There is no labels to predict things so the data is a unsupervised dat
 
 Answer => Could probably use Hierarchical Clustering it would've showed dendrogram of similar profile. also Gausssian Mixture Models(GMM) it adds probability and will show how much similar to each group my scores are. Could've used all 3 algorithms and take the result from the best algorithm(??).TODO: Need to learn more about these algorithms and validation for next project.
 
+# N.B - I had a lot more planned to do in this project tried to fire up quick deployable with docker and fast api python project for demo didn't have time. Probably won't touch this project cause this was a demo with no real data. 
+
 
 ## Authors
 
